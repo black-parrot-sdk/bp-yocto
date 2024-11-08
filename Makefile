@@ -1,3 +1,5 @@
+$(error This target is deprecated. Help wanted to bring back up!)
+
 export MACHINE = blackparrot
 
 IMAGES_DIR = build/tmp/deploy/images/blackparrot
